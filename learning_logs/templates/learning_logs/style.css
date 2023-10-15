@@ -1,0 +1,12 @@
+.text{
+    margin: 5%;
+    padding: 50px;
+    text-align: center;
+    box-shadow: 2px 2px 2px rgb(226,226,226), -2px -2px 2px rgb(226,226,226);
+    border-radius: 5px;
+    background-color: rgb(108, 226, 255);
+    z-index: -1;
+}
+.text:hover{
+    z-index: 1;
+}
